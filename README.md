@@ -1,6 +1,7 @@
 <h3 align="center"><samp>Hello there, I'm Adrian.</samp></h3>
 <br>
 <br>
+<br>
 <p align="center">
 <samp>Software Engineering student at the Federal University of Ceará.</samp>
 <br>
@@ -8,9 +9,10 @@
 </p>
 <br>
 <br>
+<br>
 <p align="center">
-<a href="https://www.linkedin.com/in/adrianwilker/"><img alt="LinkedIn" src="https://img.shields.io/badge/adrianwilker-grey?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/adrianwilker/"><img alt="Instagram" src="https://img.shields.io/badge/adrianwilker-grey?logoColor=white?style=flat&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/adrianwilker/"><img alt="LinkedIn" src="https://img.shields.io/badge/adrianwilker-grey?style=flat&logo=linkedin" target="_blank"></a>
+<a href="https://www.instagram.com/adrian.wilker/"><img alt="Instagram" src="https://img.shields.io/badge/adrian.wilker-grey?logoColor=white?style=flat&logo=instagram" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=adrianwilker&style=flat&color=grey" alt="Profile views" />
 </p>
 
