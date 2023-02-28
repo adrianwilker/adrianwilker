@@ -1,19 +1,21 @@
-<h3 align="center"><samp>Hello there, I'm Adrian.</samp></h3>
-<br>
-<br>
-<br>
-<p align="center">
-<samp>Software Engineering student at the Federal University of Ceará.</samp>
-<br>
-<samp>Front-end · UI/UX · Human-Computer Interaction · Software Quality Assurance</samp>
-</p>
-<br>
-<br>
-<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/adrianwilker/"><img alt="LinkedIn" src="https://img.shields.io/badge/adrianwilker-grey?style=flat&logo=linkedin" target="_blank"></a>
-<a href="https://www.instagram.com/adrian.wilker/"><img alt="Instagram" src="https://img.shields.io/badge/adrian.wilker-grey?logoColor=white?style=flat&logo=instagram" target="_blank"></a>
-<img src="https://komarev.com/ghpvc/?username=adrianwilker&style=flat&color=grey" alt="Profile views" />
+<h1 align="center">Hello there, I'm Adrian</h1>
+
+- 🌇 I'm from Ceará, Brazil
+
+- 🧑🏽‍💻 Software Engineering student at Federal University of Ceará
+
+- 🤓 Interested in **front-end**, **Human-Computer Interaction**, **UI/UX**, **Software Quality Assurance**.
+
+- 💙 In my free time I like to watch movies and series, listen to music, read books, spend time with my family.
+
+<h2> 📫 How to reach me </h2>
+<p>
+  <a href="https://www.linkedin.com/in/adrianwilker/" target="_blank">
+    <img src="https://img.shields.io/badge/-adrianwilker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianwilker/" alt="Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/adrian.wilker/" target="_blank">
+    <img src="https://img.shields.io/badge/-adrian.wilker-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrian.wilker/" alt="Instagram" />
+  </a>
 </p>
 
 <!--
@@ -28,12 +30,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=adrianwilker&show_icons=true" />
 </picture>
--->
 
-<!--
-<p align="center">
-<a href="https://www.linkedin.com/in/adrianwilker/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrianwilker-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/adrianwilker/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adrianwilker-blue?style=flat&logo=instagram"></a>
 <a href="https://codepen.io/adrianwilker"><img alt="CodePen" src="https://img.shields.io/badge/Codepen-adrianwilker-blue?style=flat&logo=codepen"></a>
 </p>
 -->
