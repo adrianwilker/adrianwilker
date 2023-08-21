@@ -6,7 +6,7 @@
 
 - 🤓 Interested in **front-end**, **Human-Computer Interaction**, **UI/UX**, **Software Quality Assurance**.
 
-- 💙 In my free time I like to watch movies and series, listen to music, read books, spend time with my family.
+- 💜 In my free time I like to watch movies and series, listen to music, read books, spend time with my family and friends.
 
 <h2> 📫 How to reach me </h2>
 <p>
