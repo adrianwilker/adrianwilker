@@ -18,6 +18,8 @@
   </a>
 </p>
 
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/adriwn92/latest-song?format=shields.io)](https://www.last.fm/pt/user/adriwn92)
+
 <!--
 <picture align="center">
 <source 
